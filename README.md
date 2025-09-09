@@ -13,7 +13,7 @@ Aqui você encontra exercícios, pequenos programas e desafios que desenvolvo pa
 ---
 
 ## 🚀 Lista de projetos (em desenvolvimento)
-
+### Iniciante
 1. **Calculadora** - Calculadora simples no terminal.  
 2. **Jogo da Adivinhação** - Você tenta adivinhar o número escolhido pelo computador.  
 3. **Jogo da Forca** - Clássico jogo da forca em Python.  
