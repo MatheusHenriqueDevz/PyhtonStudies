@@ -7,17 +7,17 @@ Aqui você encontra exercícios, pequenos programas e desafios que desenvolvo pa
 
 ## 📂 Estrutura do repositório
 
-- `Projetos/` - Contém todos os projetos individuais que eu faço.  
+- `ProjetosN1/` - Contém todos os projetos individuais que eu faço.  
   Cada projeto possui uma pasta própria, código fonte e instruções de execução.  
 
 ---
 
 ## 🚀 Lista de projetos (em desenvolvimento)
 
-1. **01 - Calculadora** - Calculadora simples no terminal.  
-2. **02 - Jogo da Adivinhação** - Você tenta adivinhar o número escolhido pelo computador.  
-3. **03 - Jogo da Forca** - Clássico jogo da forca em Python.  
-4. **04 - Gerador de Senhas** - Gera senhas aleatórias seguras.  
+1. **Calculadora** - Calculadora simples no terminal.  
+2. **Jogo da Adivinhação** - Você tenta adivinhar o número escolhido pelo computador.  
+3. **Jogo da Forca** - Clássico jogo da forca em Python.  
+4. **Gerador de Senhas** - Gera senhas aleatórias seguras.  
 *(e muitos outros por vir)*
 
 ---
@@ -26,6 +26,6 @@ Aqui você encontra exercícios, pequenos programas e desafios que desenvolvo pa
 
 1. Abra o terminal na pasta do projeto desejado, por exemplo:  
    ```bash
-   cd Projetos/01-calculadora
+   cd ProjetosN1/calculadora
    
    pyhton calculadora.py
