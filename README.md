@@ -28,4 +28,4 @@ Aqui você encontra exercícios, pequenos programas e desafios que desenvolvo pa
    ```bash
    cd Projetos/01-calculadora
    
-   pyhton 01-calculadora.py
+   pyhton calculadora.py
