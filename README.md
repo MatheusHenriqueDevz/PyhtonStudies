@@ -27,6 +27,5 @@ Aqui você encontra exercícios, pequenos programas e desafios que desenvolvo pa
 1. Abra o terminal na pasta do projeto desejado, por exemplo:  
    ```bash
    cd Projetos/01-calculadora
-
-   ```bash
+   
    pyhton 01-calculadora.py
